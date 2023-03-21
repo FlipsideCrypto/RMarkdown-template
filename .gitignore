@@ -48,3 +48,6 @@ po/*~
 # RStudio Connect folder
 rsconnect/
 template.html
+
+# shroomDK
+api_key.txt
